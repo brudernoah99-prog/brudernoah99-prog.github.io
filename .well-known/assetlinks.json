@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "com.canopyclearing.vr",
+              "sha256_cert_fingerprints": ["AB:88:F2:10:54:8B:EE:87:94:3C:99:A9:F3:81:BD:7C:A1:93:5B:B3:28:06:CB:9D:2E:7F:11:5A:71:19:4D:7E"] }
+}]
